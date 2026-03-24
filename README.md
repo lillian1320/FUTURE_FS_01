@@ -318,7 +318,6 @@ Response (Error):
   "message": "Failed to send message. Please try again later."
 }
 ```
-
 ### Get All Messages (Admin)
 
 **GET** `/api/contact`
@@ -391,5 +390,6 @@ This project is for personal use. Feel free to modify and use it for your own po
 Built with ❤️ using React, Node.js, Express, and MySQL
 
 "# FUTURE_FS_01" 
-#   F U T U R E _ F S _ 0 1  
+#   F U T U R E _ F S _ 0 1 
+ 
  
